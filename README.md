@@ -19,7 +19,17 @@ Este es un proyecto de aplicación de escritorio para la gestión de un local de
 ---
 
 ## Instalación y Configuración
+### 1. Instalar Python
+- Descarga e instala Python desde [aquí](https://www.python.org/downloads/).
+- Asegúrate de marcar la opción "Add Python to PATH" durante la instalación.
+- Para verificar que Python se instaló correctamente, abre una terminal o línea de comandos y ejecuta:
 
+  ```bash
+  python --version
+  ```
+
+  Esto debería mostrar la versión de Python que instalaste.
+  
 1. **Instalar XAMPP**
    - Descarga e instala XAMPP desde [aquí](https://www.apachefriends.org/index.html).
    - Abre el panel de control de XAMPP y enciende los servicios de **Apache** y **MySQL**.
